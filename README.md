@@ -5,10 +5,10 @@
 
 ## Demo
 
-<img src="https://raw.githubusercontent.com/guntertien/vue-lock/master/demo%20page/p1.jpeg" />
-<img src="https://raw.githubusercontent.com/guntertien/vue-lock/master/demo%20page/p2.jpeg" />
-<img src="https://raw.githubusercontent.com/guntertien/vue-lock/master/demo%20page/p3.jpeg" />
-<img src="https://raw.githubusercontent.com/guntertien/vue-lock/master/demo%20page/p4.jpeg" />
+<img style="width: 320;height: 640" src="https://raw.githubusercontent.com/guntertien/vue-lock/master/demo%20page/p1.jpeg" />
+<img  style="width: 320;height: 640"  src="https://raw.githubusercontent.com/guntertien/vue-lock/master/demo%20page/p2.jpeg" />
+<img   style="width: 320;height: 640"  src="https://raw.githubusercontent.com/guntertien/vue-lock/master/demo%20page/p3.jpeg" />
+<img style="width: 320;height: 640"  src="https://raw.githubusercontent.com/guntertien/vue-lock/master/demo%20page/p4.jpeg" />
 
 ## Build Setup
 
