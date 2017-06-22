@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>   
     
-    <button @click="showClicked" style="width:90px;height:50px;font-size:16px;background-color:red">手势密码</button>
+    <button @click="showClicked" style="width:90px;height:50px;font-size:16px;background-color:#eee">手势密码</button>
     <pwd v-model="showPwd" ></pwd>
 
   </div>
@@ -25,7 +25,7 @@ export default {
   },
    methods: {
     showClicked(){
-      console.log('xxxxx');
+      
       this.showPwd = true;
     }
 

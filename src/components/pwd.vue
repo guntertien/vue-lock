@@ -42,9 +42,9 @@
         
             <div style="position: absolute;top:0;left:0;right:0;bottom:0;">
                 <h4 ref="gestureTitle" class="gestureTitle" >请绘制您的图形密码</h4>
-                <a ref="updatePassword" style="position: absolute;left: 5px;top: 5px;color:#fff;font-size: 10px;display:block;" @click="updatePassword()">重置密码</a>
+                <a ref="updatePassword" style="position: absolute;left: 5px;top: 5px;color:#fff;font-size: 13px;display:block;" @click="updatePassword()">重置密码</a>
 
-                <a ref="updatePassword" style="position: absolute;right: 5px;top: 5px;color:#fff;font-size: 10px;display:block;" @click="closePwd()">关闭</a>
+                <a ref="updatePassword" style="position: absolute;right: 5px;top: 5px;color:#fff;font-size: 13px;display:block;" @click="closePwd()">关闭</a>
               
               <canvas ref="canvas" style="background-color:#000; display: inline-block; margin-top: 76px; width: 320px; height: 320px;"></canvas>
                 
