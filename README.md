@@ -1,7 +1,14 @@
 # vue-lock
 
-> Vue2 手势解锁密码 / 支付宝手势解锁
+> Vue2 手势解锁密码 / 支付宝手势解锁   
 > vue-lock 学习和借鉴了Github项目H5lock  https://github.com/lvming6816077/H5lock
+
+## Demo
+
+<img src="https://raw.githubusercontent.com/guntertien/vue-lock/master/demo%20page/p1.jpeg" />
+<img src="https://raw.githubusercontent.com/guntertien/vue-lock/master/demo%20page/p2.jpeg" />
+<img src="https://raw.githubusercontent.com/guntertien/vue-lock/master/demo%20page/p3.jpeg" />
+<img src="https://raw.githubusercontent.com/guntertien/vue-lock/master/demo%20page/p4.jpeg" />
 
 ## Build Setup
 
